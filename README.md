@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/freedomloisa" target="blank"><img src="https://img.shields.io/twitter/follow/freedomloisa?logo=twitter&style=for-the-badge" alt="freedomloisa" /></a> </p>
 
-- 🔭 I’m currently working on [Pollar | Digital democracy](https://github.com/LoisaKitakaya/Pollar)
+- 🔭 I’m currently working on [The data project](https://github.com/LoisaKitakaya/The-data-project)
 
 - 🌱 I’m currently learning **Data visualization with Jupyter notebooks, Vue.js**
 
-- 👯 I’m looking to collaborate on [Democracy App | Backend](https://github.com/LoisaKitakaya/Democracy-App)
+- 👯 I’m looking to collaborate on [The data project](https://github.com/LoisaKitakaya/The-data-project)
 
-- 🤝 I’m looking for help with [Democracy App | Backend](https://github.com/LoisaKitakaya/Democracy-App)
+- 🤝 I’m looking for help with [The data project](https://github.com/LoisaKitakaya/The-data-project)
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://freedomloisa.netlify.app/)
 
