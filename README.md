@@ -16,19 +16,11 @@
 
 - 🌱 I’m currently learning **Data visualization with Jupyter notebooks, Vue.js**
 
-- 👯 I’m looking to collaborate on [The data project](https://github.com/LoisaKitakaya/The-data-project)
-
-- 🤝 I’m looking for help with [The data project](https://github.com/LoisaKitakaya/The-data-project)
-
 - 👨‍💻 All of my projects are available at [my portfolio website](https://freedomloisa.netlify.app/)
-
-- 📝 I regularly write articles on [dev.to](https://dev.to/loisakitakaya)
 
 - 💬 Ask me about **Python, Django, React**
 
 - 📫 How to reach me **kitakayaloisa@gmail.com**
-
-- 📄 Know about my experience. [Check out my resume](https://res.cloudinary.com/dit0fii18/image/upload/v1664124091/documents/Resume_-_Freedom_Loisa_w3xg3a.pdf)
 
 - ⚡ Fun fact **I am a 100% self-taught software developer**
 
