@@ -1,13 +1,6 @@
 <h1 align="left">Hi 👋, I'm Freedom Loisa</h1>
 <h3 align="left">A passionate full-stack developer from Nairobi, Kenya</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/loisakitakaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="loisakitakaya" height="30" width="40" /></a>
-<a href="https://dev.to/loisakitakaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loisakitakaya" height="30" width="40" /></a>
-<a href="https://twitter.com/freedomloisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freedomloisa" height="30" width="40" /></a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loisakitakaya&label=Profile%20views&color=0e75b6&style=flat" alt="loisakitakaya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/freedomloisa" target="blank"><img src="https://img.shields.io/twitter/follow/freedomloisa?logo=twitter&style=for-the-badge" alt="freedomloisa" /></a> </p>
