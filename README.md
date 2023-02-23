@@ -18,11 +18,3 @@
 - ⚡ Fun fact **I am mostly a self-taught software developer**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loisakitakaya&show_icons=true&locale=en" alt="loisakitakaya" /></p>
-
-<br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loisakitakaya&" alt="loisakitakaya" /></p>
-
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loisakitakaya&show_icons=true&locale=en&layout=compact" alt="loisakitakaya" /></p>
