@@ -2,10 +2,10 @@
 
 ## Fullstack web developer
 
-I've been learning to code for 4 years. I am a fullstack developer, however my real passion is in backend development. I mainly code in Python, JavaScript, and HTML/CSS.
+I've been coding for 4+ years. I am a fullstack developer, however my real passion is in backend development. I mainly code in Python, JavaScript, and HTML/CSS.
 
 - 🌍  I'm based in Nairobi
-- 🖥️  See my portfolio at [loisakitakaya.info](http://loisakitakaya.info)
+- 🖥️  See my [portfolio](https://portfolio-murex-two-17.vercel.app/)
 - ✉️  You can contact me at [kitakayaloisa@gmail.com](mailto:kitakayaloisa@gmail.com)
 - 🤝  I'm open to collaborating on any interesting project
 
